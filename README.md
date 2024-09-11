@@ -3,6 +3,7 @@
 # electron-vite-shadcn
 
 An Electron application with React and TypeScript
+
 This project is based on the [electron-vite](https://github.com/alex8088/electron-vite).
 
 You can use
